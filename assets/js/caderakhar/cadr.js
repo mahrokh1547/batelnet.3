@@ -36,7 +36,7 @@ let cadr =`
     </div>
 
     <div class="mobail:w-full h-full flex desktop:w-1/2 mobail:order-last desktop:order-1 pl-2 mobail:translate-y-[-40px] desktop:translate-y-[60px]">
-      <img src="./public/laptop-optimized.png" alt="Battle.net Client"
+      <img src="./laptop-optimized.png" alt="Battle.net Client"
         class="rounded-lg w-fit h-fit shadow-lg object-cover">
     </div>
   </div>
